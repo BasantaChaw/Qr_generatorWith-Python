@@ -1,1 +1,2 @@
-# Qr_generatorWith-Python
+# QRcode-Generator-
+QRcode Generator Desltop Application in python 
